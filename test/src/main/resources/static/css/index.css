@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.imgwrap {
+	text-align: center;
+}
+.imgwrap img {
+	margin-top: 50px;
+	height: 500px;
+	width: 450px;
+}
